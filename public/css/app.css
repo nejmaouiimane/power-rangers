@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.weblogo{
+    width: 8vw;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(160, 160, 160);
+}
+
+nav{
+    margin-top: 2vh;
+    height: 8vh;
+    border-bottom: #888788 solid 1px;
+}
+.nav_parent{
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    font-family: monospace;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.nav_buttom{
+border: 1px solid #9505dd;
+background-color: #9505dd;
+padding: 5px 20px;
+font-size: 20px;
+font-family: monospace;
+cursor: pointer;
+border-radius: 7px;
+margin-left: 4vw;
+}
+
+.nav_buttom:hover{
+    background-color: #c657fe;
+    color: #fff;
+}
+
+
