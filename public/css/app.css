@@ -39,7 +39,8 @@ nav {
     background-color: #c657fe;
     color: #fff;
 }
-.main_parent1 {
+
+.main_parent1{
     margin-top: 40px;
     width: 100%;
     height: 90vh;
@@ -48,13 +49,15 @@ nav {
     align-items: center;
     flex-direction: column;
 }
-.main_child2 {
+
+.main_child2{
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: monospace;
 }
-.main_child3 {
+
+.main_child3{
     border: 1px solid #9505dd;
     background-color: #9505dd;
     color: white;
